@@ -6,7 +6,7 @@ export default class Section_1 extends Component {
         <section class="book_section">
         <div>
   <div className="form_container">
-    <form action>
+    <form action="">
       <div className="form-row">
         <div className="col-lg-8">
           <div className="form-row">
